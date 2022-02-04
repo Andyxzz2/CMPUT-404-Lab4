@@ -1,0 +1,15 @@
+1:https://github.com/Andyxzz2/CMPUT-404-Lab4
+2:It shows a django page saying "The install worked successfully! Congratulations!" with a rocket.
+3: under "/" path, it shows 404 not found with logs "the empty path didn't match any of these"
+   under "polls/" path, it shows empty page with "Hello, world. You're at the polls index."
+4:migrition is used after we made any changes to the model and let django knows them and store them into database.
+5:I see a administration page which allows to make new instance of models.
+To make a custome model, we just simply click add button in the corresponding model and enter informations.
+6: 
+    a.You're looking at question 38.
+    b.You're looking at the results of question 38.
+    c.You're voting on question 38.
+    d.404 page not found
+    e.change '<int:question_id>/' into '<slug:question_id>/' which accept ASCII letters and numbers
+7:It's not flexible. if we want to make any changes such as route configuration, they may not direct user to the correct page.
+8:
