@@ -12,4 +12,4 @@ To make a custome model, we just simply click add button in the corresponding mo
     d.404 page not found
     e.change '<int:question_id>/' into '<slug:question_id>/' which accept ASCII letters and numbers
 7:It's not flexible. if we want to make any changes such as route configuration, they may not direct user to the correct page.
-8:
+8:The purpose is that we donot need repeatly write same code in different views
